@@ -13,9 +13,9 @@ mongoose.connect('mongodb://localhost/movies-db', { useNewUrlParser: true, useUn
 
 
 cloudinary.config({
-  cloud_name: 'dec6gy3wy',
-  api_key: '355514238263871',
-  api_secret: 'fkxhW0wjFM1XciQrJGl6kZk-Qn0'
+  cloud_name: 'dnb0s1xcx',
+  api_key: '945374826774316',
+  api_secret: 'CEkMRR6HM4REv-WRooQvfqzhv-8'
 });
 
 
